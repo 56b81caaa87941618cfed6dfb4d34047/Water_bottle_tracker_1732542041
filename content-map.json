@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "Hydrate",
+        "HERO_HEADING_TEXT": "Quench Your Thirst, Track Your Sips",
+        "HERO_SUBHEADING_TEXT": "Stay hydrated and healthy with our smart water tracking app",
+        "FOOTER_TEXT": "\u00a9 2023 Hydrate. Drink smart, live better."
+    }
+}
