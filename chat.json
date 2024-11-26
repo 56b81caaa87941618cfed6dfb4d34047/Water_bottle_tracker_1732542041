@@ -6,5 +6,15 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "be7167da-3e41-4b94-affd-de519db7aaea",
+        "timestamp": "2024-11-26T09:11:39.042167Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "add a frontrend for the smart contract address 0xFb0b65497fFd92B32c8899aEe19bb645cE1f7960 on holesky",
+        "metadata": {
+            "component_id": "Header1732542044"
+        }
     }
 ]
